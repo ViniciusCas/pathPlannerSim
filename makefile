@@ -18,7 +18,7 @@ SRCS = $(SRC_DIR)/main.cpp \
 
 OBJS = $(patsubst $(SRC_DIR)/%.cpp, $(BUILD_DIR)/%.o, $(SRCS))
 
-TARGET = rrt_pathfinding
+TARGET = pathfinding_app
 
 all: $(TARGET)
 
