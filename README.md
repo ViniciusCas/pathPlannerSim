@@ -1,7 +1,7 @@
 # pathPlannerSim
 Ambiente de simulação para algoritmos de path planning (Planejador de rotas)
 
-![Aplicativo de planejador de caminhos](assets/screen.jpeg?raw=true "pathPlannerSim")
+![Aplicativo de planejador de caminhos](assets/screen.png?raw=true "pathPlannerSim")
 
 Uso
 ---
